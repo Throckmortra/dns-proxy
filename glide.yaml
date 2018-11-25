@@ -1,0 +1,6 @@
+package: github.com/throckmortra/dns-proxy
+import:
+- package: github.com/miekg/dns
+  version: ~1.0.15
+- package: github.com/spf13/viper
+  version: ~1.2.1
